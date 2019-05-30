@@ -1,0 +1,7 @@
+PROBLEM OVEVIEW
+
+My idea here is to analyze the different districts of the tricity of Poland and segment them into four clusters.
+This problem provides a solution for people who might wanna relocate in the tricity to a similar neighbourhood as 
+the initial one.
+
+To get the required data I have used the Fourquare API
