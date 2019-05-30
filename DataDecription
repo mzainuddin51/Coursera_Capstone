@@ -1,0 +1,6 @@
+DATA OVERVIEW
+
+The data I required was easily found over wikipedia. To help understand the address system of the tricity I took help
+from my Polish friends and finally arrived at the conclusion that its best to segment the model based on the different 
+districts. The names of the districts were taken from wikipedia and I used the geopy library to get the coordinates.
+Since the library may cause problems while using,the data has been downloaded as a csv file called final_data.csv.
